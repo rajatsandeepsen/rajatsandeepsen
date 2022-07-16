@@ -1,0 +1,81 @@
+:root {
+    --white: #ffffff;
+    --dark: #120f1f;
+    --prime: rgb(250, 44, 44);
+    --secn: rgb(33, 90, 246);
+
+    --prime2: rgb(47, 237, 47);
+    --secn2: rgb(36, 35, 50);
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: var(--dark);
+
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.anav {
+    padding-left: 3vw;
+    font-family: 'Montserrat', sans-serif;
+    height: 8%;
+    text-align: left;
+    font-size: 80%;
+    color: var(--white);
+    line-height: 60px;
+    display: inline;
+    cursor: pointer;
+
+}
+
+.home {
+    display: flex;
+    justify-content: flex-start;
+    width: 80%;
+    align-items: center;
+    flex-direction: row;
+    padding: 10%;
+
+}
+
+.texthalf {
+
+    width: 40%;
+    max-width: 32vw;
+    color: var(--white);
+    font-family: 'Montserrat', sans-serif;
+    text-align: right;
+    font-size: 95%;
+    line-height: 20px;
+    padding-right: 2%;
+    margin-left: 8%;
+    margin-right: 8%;
+    border-right: var(--white) solid 3.5px;
+}
+
+.pichalf {
+
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.pichalf>img {
+    max-width: 70%;
+    height: auto;
+}
+
+@media qu {}
