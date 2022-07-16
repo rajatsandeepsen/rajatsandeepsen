@@ -1,4 +1,3 @@
-
 ## Hey there 👋 
 # I'm Rajat Sandeep
 
@@ -60,8 +59,7 @@ for becoming a Web Designer
 - React
 - Tailwind CSS
 - Typescript
-- Rust 
-because i found this is essensial for build a cross-platform APP
+- Rust
 
 - Blender
 - Unity + Bolt Visual Programming protocol
@@ -74,7 +72,6 @@ for GameDevelopment & Film Making
 - Machine Learning
 - Designing & Prototyping
 - Gaming & Game Development
-- Film Making
 
 ### My current networking and clubs
 - IEEE (as a web team member)
