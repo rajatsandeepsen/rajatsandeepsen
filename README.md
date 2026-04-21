@@ -1,1 +1,1 @@
-<img width="1500" height="500" alt="rajat's banner image" src="https://github.com/user-attachments/assets/77ea08da-e4d5-4435-aca7-9cd496c6e1f2" />
+<img width="2048" height="1024" alt="social-network-movie" src="https://github.com/user-attachments/assets/51d01ceb-80c3-47f8-a309-13fa5df99012" />
